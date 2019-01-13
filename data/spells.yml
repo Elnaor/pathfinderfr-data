@@ -11804,30 +11804,6 @@
   Résistance à la magie: non
   Temps d'incantation: 1 action simple
   École: Illusion (chimère, hallucination) ;
-- Composantes: V, G, M (un tas de soufre enveloppé dans un tissu)
-  Description: 'Événement favori des festivals halfelins de l’été, ce sort crée des
-    feux d’artifice en forme de petits dragons. Une
-
-    fois par round , par une action de mouvement , le personnage peut désigner une
-    case de 1,50 mètre situé à portée et y envoyer sa démonstration pyrotechnique.
-    Les feux d’artifice suivent un chemin en zigzag qui va du personnage à la case
-    choisie. Ils évitent toujours les créatures et les objets placés sur leur chemin
-    et explosent dans la case choisie en une gerbe de feu et de couleurs. Les créatures
-    qui se trouvent dans la case reçoivent 1d4 points de dégâts de feu et sont éblouies
-    pendant 1 round ( Réflexes 1/2 dégâts, annule l’ éblouissement ). Normalement,
-    quand ce sort est utilisé lors d’un festival, la case de l’explosion est située
-    haut dans le ciel, par mesure de sécurité et pour améliorer la visibilité des
-    spectateurs.'
-  Durée: 1 round/niveau
-  Zone d'effet: feux d’artifice en forme de dragon
-  Jet de sauvegarde: Réflexes pour annuler ;
-  Niveau: barde 2, ensorceleur/magicien 1
-  Nom: Dragon d'artifice
-  Portée: longue (120 m + 12 m/niveau) (80 c + 8 c/niveau)
-  Référence: http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Dragon%20dartifice.ashx
-  Résistance à la magie: oui
-  Temps d'incantation: 1 action simple
-  École: transmutation [feu, lumière] ;
 - Composantes: V, G
   Description: Ceci fonctionne comme un sort de confusion mais affecte seulement les
     créatures artificielles . Au lieu de babiller de façon incohérente, elles ne font
